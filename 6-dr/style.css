@@ -1,0 +1,175 @@
+
+
+
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column ;
+    
+   
+}
+
+
+.box1{
+    margin: 20px;
+    border:5px solid plum;
+    width: 400px;
+    height: 100px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+
+}
+
+
+
+h1{
+    
+    color: rgb(177, 117, 232);
+}
+
+
+
+
+.box2{
+    margin: 20px;
+    border:5px solid plum;
+    width: 400px;
+    height: 100px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 10px;
+    padding: 10px;
+    }
+
+  
+    .box3{
+        margin: 20px;
+        border:5px solid plum;
+        width: 400px;
+        height: 100px;
+        gap: 10px;
+        border-radius: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        padding: 10px;
+     }
+
+
+
+
+
+     .box4{
+        margin: 20px;
+        border:5px solid plum;
+        width: 400px;
+        height: 100px;
+        gap: 10px;
+        border-radius: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 10px;
+        padding: 10px;
+     }
+
+
+
+     .box5{
+        margin: 20px;
+        border:5px solid plum;
+        width: 400px;
+        height: 100px;
+        gap: 10px;
+        border-radius: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        gap: 10px;
+        padding: 10px;
+     }
+
+
+
+
+     .box6{
+        border:5px solid plum;
+        width: 400px;
+        height: 100px;
+        gap: 10px;
+        border-radius: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        gap: 10px;
+        padding: 10px;
+
+     }
+     .git{
+        width: 80px;
+        height: 80px;
+        background-color: white;
+        border-radius: 20px;
+        
+     }
+
+
+
+     .git{
+        width: 80px;
+        height: 80px;
+        background-color: white;
+        border-radius: 20px;
+
+        }
+
+
+
+        git{
+            width: 80px;
+            height: 80px;
+            background-color: white;
+            border-radius: 20px;
+    
+            } 
+            .yit{
+                width: 80px;
+                height: 80px;
+                background-color: white;
+                border-radius: 20px;   
+            }  
+            
+            .ped{
+                width: 80px;
+                height: 80px;
+                background-color: white;
+                border-radius: 20px; 
+            }
+            .li{
+                width: 80px;
+                height: 80px;
+                background-color: white;
+                border-radius: 20px;
+            }
+
+            .fijn{
+                width: 80px;
+                height: 80px;
+                background-color: white;
+                border-radius: 20px;
+            }
+            .gh{
+                width: 80px;
+                height: 80px;
+                background-color: white;
+                border-radius: 20px;    
+            }
+        
